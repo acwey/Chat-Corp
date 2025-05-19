@@ -1,6 +1,12 @@
 # Sistema de Chat – PTI
 
 Protótipo desenvolvido para a 2ª entrega do Projeto Integrador.  
+Grupo 43, Integrantes:
+Antonio Carlos Wey Ribeiro
+Jean Vito Batista Felix
+Pedro Hortêncio Moreira Rosa
+
+
 
 ## Estrutura
 ```
