@@ -4,8 +4,9 @@ Protótipo desenvolvido para a 2ª entrega do Projeto Integrador.
 Grupo 43, Integrantes:
 Andrius Gottems da Silva;
 Antonio Carlos Wey Ribeiro;
+Gabriel Huff Lemos;
 Jean Vito Batista Felix;
-Pedro Hortêncio Moreira Rosa;
+Pedro Hortêncio Moreira Rosa.
 
 
 
