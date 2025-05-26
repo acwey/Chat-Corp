@@ -13,7 +13,7 @@ Antonio Carlos Wey Ribeiro;
 
 Gabriel Huff Lemos;
 
-Jean Vito Batista Felix;
+Jean Vitor Batista Felix;
 
 Pedro Hortêncio Moreira Rosa.
 
