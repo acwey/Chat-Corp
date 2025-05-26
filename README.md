@@ -1,7 +1,8 @@
 # Sistema de Chat – PTI
 
 Um chat web **simples, direto e 100 % em PHP + MySQL** feito para a 2ª entrega da PTI.  
-Qualquer usuário cadastrado entra num único salão e conversa em tempo quase real
+Qualquer usuário cadastrado entra num único salão e conversa em tempo quase real.
+Vídeo demonstrativo presente dentro da pasta.
 
 Protótipo desenvolvido para a 2ª entrega do Projeto Integrador.  
 Grupo 43, Integrantes:
